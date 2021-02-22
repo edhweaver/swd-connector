@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name swd-connection)(type Legacy)(uri ${KIPRJMOD}/swd-connection.lib)(options "")(descr ""))
+)

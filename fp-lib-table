@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name swd-header_RevA)(type KiCad)(uri ${KIPRJMOD}/swd-header_RevA.pretty)(options "")(descr ""))
+  (lib (name swd-header)(type KiCad)(uri ${KIPRJMOD}/swd-header_RevA.pretty/swd-header.pretty)(options "")(descr ""))
+  (lib (name swd-connection)(type KiCad)(uri ${KIPRJMOD}/swd-connection.pretty)(options "")(descr ""))
+)
